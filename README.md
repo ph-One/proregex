@@ -5,6 +5,7 @@ A community driven book on Regular Expressions.
 ## Install gems
 ```
 # clone this repo
+# cd into the cloned repo directory
 bundle install
 ```
 
