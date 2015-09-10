@@ -1,0 +1,11 @@
+output
+.DS_Store
+
+# build artifacts
+prodocker*.html
+prodocker*.pdf
+prodocker*.pdfmarks
+prodocker*.epub
+prodocker*.epub
+prodocker*.mobi
+/images/
