@@ -4,8 +4,8 @@ A community driven book on Regular Expressions.
 
 ## Install gems
 ```
-# clone this repo
-# cd into the cloned repo directory
+git clone https://github.com/ph-One/proregex.git
+cd proregex
 bundle install
 ```
 
